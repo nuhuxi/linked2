@@ -140,7 +140,7 @@ MAP -->
 			draggable: true,
 			styles: [ { "stylers": [ { "hue": "#000" },  {saturation: -100},
                 {gamma: 1.6} ] } ],
-			center: new google.maps.LatLng(-37.801578, 145.060508),
+			center: new google.maps.LatLng(33.62491152, -111.9244194),
 		  mapTypeId: google.maps.MapTypeId.ROADMAP
 		});
 	
