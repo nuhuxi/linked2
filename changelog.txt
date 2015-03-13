@@ -1,0 +1,4 @@
+*** Changelog - Buzz Website Template ***
+
+2015.03.05 - version 1.0
+	* First release!
