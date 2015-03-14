@@ -126,9 +126,11 @@ FUN -->
 /* ==============================================
 MAP -->
 =============================================== */
-
+	/*MGK var locations = [
+		['<div class="infobox"><h3 class="title"><a href="about1.html">OUR USA OFFICE</a></h3><span>Scottsdale, AZ 85254 / 65</span><br> 480 550 8020</p></div></div></div>', -37.801578, 145.060508, 2] 
+		];MGK*/
 	var locations = [
-		['<div class="infobox"><h3 class="title"><a href="about1.html">OUR USA OFFICE</a></h3><span>NEW YORK CITY 2045 / 65</span><br>+90 555 666 77 88</p></div></div></div>', -37.801578, 145.060508, 2]
+		['<div class="infobox"><h3 class="title">OUR USA OFFICE</h3><span>Scottsdale, AZ 85254 </span><br> 480 550 8020</p></div></div></div>',33.62491152, -111.9244194, 1]
 		];
 	
 		var map = new google.maps.Map(document.getElementById('map'), {
