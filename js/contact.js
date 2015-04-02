@@ -1,7 +1,7 @@
 jQuery(document).ready(function(){
 
 	$('#contactform').submit(function(){
-        alert("You cicked submit!");
+
 		var action = $(this).attr('action');
 
 		$("#message").slideUp(750,function() {
