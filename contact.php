@@ -11,8 +11,8 @@ if (!defined("PHP_EOL")) define("PHP_EOL", "\r\n");
 
 $name     = $_POST['name'];
 $email    = $_POST['email'];
-$phone   = $_POST['phone'];
-$subject  = $_POST['subject'];
+// $phone   = $_POST['phone'];
+// $subject  = $_POST['subject'];
 $comments = $_POST['comments'];
 $verify   = $_POST['verify'];
 
@@ -57,9 +57,9 @@ $e_subject = 'You\'ve been contacted by ' . $name . '.';
 // You can change this if you feel that you need to.
 // Developers, you may wish to add more fields to the form, in which case you must be sure to add them here.
 
-$e_body = "You have been contacted by $name with regards to $subject, their additional message is as follows." . PHP_EOL . PHP_EOL;
+$e_body = "You have been contacted by $name, their additional message is as follows." . PHP_EOL . PHP_EOL;
 $e_content = "\"$comments\"" . PHP_EOL . PHP_EOL;
-$e_reply = "You can contact $name via email, $email or via phone $phone";
+$e_reply = "You can contact $name via email, $email.";
 
 $msg = wordwrap( $e_body . $e_content . $e_reply, 70 );
 

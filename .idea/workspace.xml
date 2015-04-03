@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="923082d4-d9b1-4ee9-bc92-ae7420d95458" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/contact.php" afterPath="$PROJECT_DIR$/contact.php" />
     </list>
     <ignored path="linked2.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -23,14 +23,24 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4654088">
-              <caret line="681" column="97" selection-start-line="681" selection-start-column="97" selection-end-line="681" selection-end-column="97" />
+            <state vertical-scroll-proportion="147.75">
+              <caret line="655" column="4" selection-start-line="655" selection-start-column="4" selection-end-line="655" selection-end-column="4" />
               <folding>
                 <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index1.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index1.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="547.125">
+              <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -45,11 +55,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="contact.php" pinned="false" current-in-tab="false">
+      <file leaf-file-name="contact.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/contact.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0">
-              <caret line="6" column="791" selection-start-line="0" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.4631902">
+              <caret line="61" column="52" selection-start-line="61" selection-start-column="52" selection-end-line="61" selection-end-column="52" />
               <folding />
             </state>
           </provider>
@@ -74,9 +84,9 @@
     <option name="CHANGED_PATHS">
       <list>
         <option value="$PROJECT_DIR$/js/contact.js" />
-        <option value="$PROJECT_DIR$/contact.php" />
         <option value="$PROJECT_DIR$/newsLetter.php" />
         <option value="$PROJECT_DIR$/index.html" />
+        <option value="$PROJECT_DIR$/contact.php" />
       </list>
     </option>
   </component>
@@ -436,14 +446,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/contact.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="6" column="791" selection-start-line="0" selection-start-column="0" selection-end-line="90" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/newsLetter.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -452,13 +454,29 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/index1.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="547.125">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4654088">
-          <caret line="681" column="97" selection-start-line="681" selection-start-column="97" selection-end-line="681" selection-end-column="97" />
+        <state vertical-scroll-proportion="147.75">
+          <caret line="655" column="4" selection-start-line="655" selection-start-column="4" selection-end-line="655" selection-end-column="4" />
           <folding>
             <element signature="n#header#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/contact.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.4631902">
+          <caret line="61" column="52" selection-start-line="61" selection-start-column="52" selection-end-line="61" selection-end-column="52" />
+          <folding />
         </state>
       </provider>
     </entry>
