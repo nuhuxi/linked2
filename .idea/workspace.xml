@@ -27,7 +27,7 @@
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state vertical-scroll-proportion="0.6383648">
-              <caret line="860" column="123" selection-start-line="860" selection-start-column="123" selection-end-line="860" selection-end-column="123" />
+              <caret line="860" column="98" selection-start-line="860" selection-start-column="98" selection-end-line="860" selection-end-column="98" />
               <folding>
                 <element signature="n#article#0;n#body#0;n#html#0;n#!!top" expanded="false" />
               </folding>
@@ -436,14 +436,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/newsLetter.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0">
-          <caret line="73" column="8" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/contact.php">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0">
@@ -452,10 +444,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/newsLetter.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="73" column="8" selection-start-line="73" selection-start-column="8" selection-end-line="73" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.6383648">
-          <caret line="860" column="123" selection-start-line="860" selection-start-column="123" selection-end-line="860" selection-end-column="123" />
+          <caret line="860" column="98" selection-start-line="860" selection-start-column="98" selection-end-line="860" selection-end-column="98" />
           <folding>
             <element signature="n#article#0;n#body#0;n#html#0;n#!!top" expanded="false" />
           </folding>
