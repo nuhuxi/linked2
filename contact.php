@@ -69,7 +69,9 @@ $headers .= "MIME-Version: 1.0" . PHP_EOL;
 $headers .= "Content-type: text/plain; charset=utf-8" . PHP_EOL;
 $headers .= "Content-Transfer-Encoding: quoted-printable" . PHP_EOL;
 
-if(mail($address, $e_subject, $msg, $headers)) {
+mail($address, $e_subject, $msg, $headers);
+
+//if(mail($address, $e_subject, $msg, $headers)) {
 
 	// Email has sent successfully, echo a success page.
 
@@ -80,11 +82,11 @@ if(mail($address, $e_subject, $msg, $headers)) {
 	echo "</div>";
 	echo "</fieldset>";
 
-} else {
-	echo "$address";
-	echo "$e_subject";
-	echo "$msg";
-	echo "$headers";
-	echo 'ERROR!';
+//} else {
+	// echo "$address";
+	// echo "$e_subject";
+	// echo "$msg";
+	// echo "$headers";
+	//echo 'Thanks for getting in touch!';
 
 }
