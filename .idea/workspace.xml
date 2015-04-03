@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="923082d4-d9b1-4ee9-bc92-ae7420d95458" name="Default" comment="" />
+    <list default="true" id="923082d4-d9b1-4ee9-bc92-ae7420d95458" name="Default" comment="">
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mailTest.php" afterPath="$PROJECT_DIR$/mailTest.php" />
+    </list>
     <ignored path="linked2.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -66,8 +68,8 @@
       <file leaf-file-name="mailTest.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/mailTest.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.15337424">
-              <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+            <state vertical-scroll-proportion="0.16871166">
+              <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -491,8 +493,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mailTest.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.15337424">
-          <caret line="10" column="4" selection-start-line="10" selection-start-column="4" selection-end-line="10" selection-end-column="4" />
+        <state vertical-scroll-proportion="0.16871166">
+          <caret line="11" column="27" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
           <folding />
         </state>
       </provider>

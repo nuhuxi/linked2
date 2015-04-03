@@ -8,5 +8,7 @@ $headers = 'From: mark15@keckeis.com' . "\r\n" .
 
 if(mail($to, $subject, $message, $headers)){
     echo 'email sent';
+    } else{
+    echo 'it didnt happen';
     };
 ?>
